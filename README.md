@@ -1,4 +1,5 @@
 # Emotion Detection from Urdu Speech
+![image](https://github.com/user-attachments/assets/7fcacff1-041f-434e-a2d4-b2589976cfd7)
 
 ## Overview
 
