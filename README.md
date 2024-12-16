@@ -37,5 +37,4 @@ R. Shaik, "Sentiment Analysis with Word-Based Urdu Speech Recognition," Journal 
 U. Sehar et al., "Urdu sentiment analysis via multimodal data mining based on deep learning algorithms," IEEE Access, 2021.
 A. Asghar et al., "An Urdu speech corpus for emotion recognition," PeerJ Computer Science, 2022.
 A. Ullah et al., "Threatening language detection from Urdu data with deep sequential model," PLOS ONE, 2024.
-M. Mateen, N. Z. Bawany, "Deep Learning Approach for Detecting Audio Deepfakes in Urdu," NUML International Journal of Engineering and Computing, 2023.
-Feel free to modify this draft as needed! If you have any specific sections or details you'd like to add, let me know.
+M. Mateen, N. Z. Bawany, "Deep Learning Approach for Detecting Audio Deepfakes in Urdu," NUML International Journal of Engineering and Computing, 2023
